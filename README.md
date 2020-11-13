@@ -2,10 +2,10 @@
 by Brian Mueller
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+Text
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+Text
 
 ## Links
 
